@@ -1,0 +1,9 @@
+Package: rAssistlyAPI
+Title: Wrapper for the Assistly API
+Version: 0.1
+Date: 2011-04-02
+Author: Noah Lorang
+Maintainer: Noah Lorang <noah@noahhl.com>
+Description: Wraps the Assistly API
+Depends: oauth, RJSONIO
+License: MIT
