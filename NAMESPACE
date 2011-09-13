@@ -1,1 +1,1 @@
-export(GetInteractions, GetCases, GetSpecificCase, UpdateCase)
+export(GetInteractions, GetCases, GetSpecificCase, UpdateCase, GetCustomers, GetSpecificCustomer, UpdateCustomer)
